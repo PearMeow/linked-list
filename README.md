@@ -3,14 +3,14 @@ LinkedList
 
 Features
 --------
-- [ ] Node class
-- [ ] LinkedList class
-- [ ] Append, prepend nodes
-- [ ] Size, head, and tail functions that return values
-- [ ] Accessing values based on index and finding if a value exists
-- [ ] Popping to remove
-- [ ] toString
-- [ ] Removing and inserting at specific indices
+- [x] Node class
+- [x] LinkedList class
+- [x] Append, prepend nodes
+- [x] Size, head, and tail functions that return values
+- [x] Accessing values based on index and finding if a value exists
+- [x] Popping to remove
+- [x] toString
+- [x] Removing and inserting at specific indices
 
 How to use this project
 -----------------------
