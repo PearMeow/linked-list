@@ -1,4 +1,4 @@
-import LinkedList from "./script.js";
+import LinkedList from "./linked-list.js";
 
 // example uses class syntax - adjust as necessary
 const list = new LinkedList();
